@@ -22,8 +22,6 @@ public class App
 		double res = 0, fact = 1; 
         for (int i = 1; i <= n; i++) 
         { 
-            // fact variable store 
-            // factorial of the i 
             fact = fact * i; 
             res = res + (i / fact); 
         } 
