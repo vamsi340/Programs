@@ -1,7 +1,6 @@
 package com.scriptbees.AddAnyTwoNumbers;
 
 import java.util.Scanner;
-
 /**
  * Hello world!
  *
@@ -20,3 +19,4 @@ public class App
          System.out.println("Total value: "+c);
     }
 }
+ 
